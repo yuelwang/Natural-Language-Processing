@@ -1,5 +1,5 @@
 # Setup Guide
-Please download the zip file. Then open the "LLM Natural Language Processing" Jupyter Notebook, then run the cells. I didn't include the finished vocabulary dictionary and the visualizations, thus please run the Jupyter Notebook and the files will be generated. In addition, the documentation includes explanations about this project.
+Please download the zip file. Then open the "LLM Natural Language Processing" Jupyter Notebook, and then run the cells. I didn't include the finished vocabulary dictionary and the visualizations, thus please run the Jupyter Notebook and the files will be generated. In addition, the documentation includes explanations about this project.
 
 # Read Me Task 1
 The top three positive employees (across all the months) are lydia.delgado@enron.com, patti.thompson@enron.com, and eric.bass@enron.com. The negative are bobette.riner@ipgdirect.com, sally.beck@enron.com, and kayne.coulter@enron.com.
